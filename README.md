@@ -96,6 +96,14 @@ Research Paper/
 ### Tableau Dashboard
 
 ![Tableau Dashboard](Dashboard/Dashboard%20Screenshot/Tableau%20Dashboard.jpg)
+
+## Future Scope
+
+- Deploy the dashboard to Streamlit Community Cloud.
+- Integrate live real estate market data.
+- Evaluate additional clustering algorithms such as DBSCAN and Gaussian Mixture Models.
+- Develop predictive models for property price estimation and buyer conversion.
+  
 ## 👨‍💻 Developed By
 
 **Satyam Rakeshpratap Singh**
