@@ -24,14 +24,14 @@ investment behaviour, property transactions, and machine learning-based buyer se
 # --------------------------------------------------
 # Load Dataset
 # --------------------------------------------------
+from pathlib import Path
+
 @st.cache_data
 def load_data():
-    from pathlib import Path
+    BASE_DIR = Path(__file__).resolve().parent.parent
+    DATA_PATH = BASE_DIR / "Dataset" / "final_clustered_data.xlsx"
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = BASE_DIR / "Dataset" / "final_clustered_data.xlsx"
-
-df = pd.read_excel(DATA_PATH)
+    df = pd.read_excel(DATA_PATH)
     return df
 
 df = load_data()
