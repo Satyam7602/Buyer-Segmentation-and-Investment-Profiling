@@ -102,6 +102,13 @@ Research Paper/
 - Integrate live real estate market data.
 - Evaluate additional clustering algorithms such as DBSCAN and Gaussian Mixture Models.
 - Develop predictive models for property price estimation and buyer conversion.
+- 
+  ## 📈 Key Results
+
+- Successfully segmented buyers into three customer clusters.
+- Achieved a Silhouette Score of 0.302.
+- Developed interactive dashboards using Streamlit and Tableau.
+- Generated business insights to support buyer segmentation and investment profiling.
   
 ## 👨‍💻 Developed By
 
