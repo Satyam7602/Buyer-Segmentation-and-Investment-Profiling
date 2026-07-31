@@ -92,12 +92,13 @@ Research Paper/
 **Satyam Rakeshpratap Singh**
 
 Unified Mentor Internship Project
+
 ## 📸 Dashboard Preview
 
-### Dashboard Overview
+### Streamlit Dashboard
 
-![Dashboard Overview](Dashboard/Dashboard%20Overview.png)
+![Streamlit Dashboard](Dashboard/Dashboard%20Screenshot/Streamlit%20Dashboard%20Overview.jpeg)
 
-### Dashboard Details
+### Tableau Dashboard
 
-![Dashboard Details](Dashboard/Dashboard%20Details.png)
+![Tableau Dashboard](Dashboard/Dashboard%20Screenshot/Tableau%20Dashboard.jpg)
