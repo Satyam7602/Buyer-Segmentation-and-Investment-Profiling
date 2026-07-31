@@ -82,7 +82,6 @@ Number of Clusters:
 Dataset/
 Python/
 Dashboard/
-Presentation/
 Research Paper/
 
 ---
