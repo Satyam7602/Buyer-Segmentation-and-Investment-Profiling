@@ -87,12 +87,6 @@ Research Paper/
 
 ---
 
-## 👨‍💻 Developed By
-
-**Satyam Rakeshpratap Singh**
-
-Unified Mentor Internship Project
-
 ## 📸 Dashboard Preview
 
 ### Streamlit Dashboard
@@ -102,3 +96,8 @@ Unified Mentor Internship Project
 ### Tableau Dashboard
 
 ![Tableau Dashboard](Dashboard/Dashboard%20Screenshot/Tableau%20Dashboard.jpg)
+## 👨‍💻 Developed By
+
+**Satyam Rakeshpratap Singh**
+
+Unified Mentor Internship Project
